@@ -5,7 +5,7 @@ This repository contains a serverless function that leverages OpenAI's API to ge
 ## Features
 
 - Sends user input to OpenAI's API and generates follow-up questions using the model's capabilities.
-- Built using Node.js and the Vercel serverless framework.
+- Built using the Vercel serverless framework.
 - Utilizes OpenAI's powerful language processing capabilities for enhanced user interactions.
 - Easy deployment on Vercel's platform for fast and scalable execution.
 
